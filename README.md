@@ -1,10 +1,10 @@
-### 안녕하세요! Hi, there! 👋
+### ⭐️ Favorite motto
+> Failure is an option. If you’re not failing now and then, you’re not being innovative enough or taking enough risks.
 
-#### 📱 iOS Developer
+### 📱 iOS Developer
 
 - ****다시 만나도 같이 일하고 싶은 개발자****를 목표로 꾸준히 학습을 이어가고 있습니다.
 - 평생 학습과 팀 플레이를 지속할 수 있는 개발을 좋아합니다.
-- 글로벌 및 장애를 가진 사용자들의 앱 접근성 향상에 많은 관심을 가지고 있습니다.
 
 [![Blog Badge](http://img.shields.io/badge/Blog-1FC996?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@ryan-son)](https://velog.io/@ryan-son)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ryan.son1002@gmail.com)](mailto:ryan.son1002@gmail.com)
