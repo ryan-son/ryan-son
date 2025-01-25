@@ -1,4 +1,4 @@
-Loves finding reasonable solutions.
+Passionate about crafting practical and impactful solutions.
 
 ### ⭐️ Favorite motto
 > Failure is an option. If you’re not failing now and then, you’re not being innovative enough or taking enough risks.
